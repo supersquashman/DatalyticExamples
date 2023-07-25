@@ -58,10 +58,6 @@ class DnDAnalytics:
         print(self.class_spell_list)
         
     def graph_unique_spell_count(self):
-        #self.df['classes'].apply(self.parse_unique_spells_by_class)
-        #print(self.df['classes'][self.df['classes'].str.split(",").str.len() == 1].value_counts())
-        #unique_dist_cl_df = self.df['classes'][self.df['classes'].str.split(",").str.len() == 1].value_counts().reset_index()
-
         unique_dist_cl_df = self.df['classes'][self.df['classes'].str.split(",").str.len() == 1].reset_index()
         print(unique_dist_cl_df)
         #print(self.df[['classes','level']][self.df['classes'].str.split(",").str.len() == 1].value_counts())
@@ -81,6 +77,6 @@ class DnDAnalytics:
     
 
 analyzer = DnDAnalytics()
-#analyzer.spells_avail_line()
+analyzer.spells_avail_line()
 analyzer.describe()
-#analyzer.graph_unique_spell_count()
+analyzer.graph_unique_spell_count()
