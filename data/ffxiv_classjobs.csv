@@ -1,0 +1,94 @@
+,charId,name,job,level,specialized,class,category,abbreviation,active
+0,12902234,Drifter Marz,gladiator,82,False,gladiator,"{'ID': 30, 'Name': 'Disciple of War'}",GLA,False
+1,12902234,Drifter Marz,marauder,82,False,marauder,"{'ID': 30, 'Name': 'Disciple of War'}",MRD,False
+2,12902234,Drifter Marz,dark knight,90,False,dark knight,"{'ID': 30, 'Name': 'Disciple of War'}",DRK,True
+3,12902234,Drifter Marz,gunbreaker,80,False,gunbreaker,"{'ID': 30, 'Name': 'Disciple of War'}",GNB,False
+4,12902234,Drifter Marz,conjurer,60,False,conjurer,"{'ID': 31, 'Name': 'Disciple of Magic'}",CNJ,False
+5,12902234,Drifter Marz,arcanist,90,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,False
+6,12902234,Drifter Marz,astrologian,36,False,astrologian,"{'ID': 31, 'Name': 'Disciple of Magic'}",AST,False
+7,12902234,Drifter Marz,sage,70,False,sage,"{'ID': 31, 'Name': 'Disciple of Magic'}",SGE,False
+8,12902234,Drifter Marz,pugilist,90,False,pugilist,"{'ID': 30, 'Name': 'Disciple of War'}",PGL,False
+9,12902234,Drifter Marz,lancer,80,False,lancer,"{'ID': 30, 'Name': 'Disciple of War'}",LNC,False
+10,12902234,Drifter Marz,rogue,80,False,rogue,"{'ID': 30, 'Name': 'Disciple of War'}",ROG,False
+11,12902234,Drifter Marz,samurai,80,False,samurai,"{'ID': 30, 'Name': 'Disciple of War'}",SAM,False
+12,12902234,Drifter Marz,reaper,90,False,reaper,"{'ID': 30, 'Name': 'Disciple of War'}",RPR,False
+13,12902234,Drifter Marz,archer,75,False,archer,"{'ID': 30, 'Name': 'Disciple of War'}",ARC,False
+14,12902234,Drifter Marz,machinist,90,False,machinist,"{'ID': 30, 'Name': 'Disciple of War'}",MCH,False
+15,12902234,Drifter Marz,dancer,71,False,dancer,"{'ID': 30, 'Name': 'Disciple of War'}",DNC,False
+16,12902234,Drifter Marz,thaumaturge,13,False,thaumaturge,"{'ID': 31, 'Name': 'Disciple of Magic'}",THM,False
+17,12902234,Drifter Marz,arcanist,90,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,False
+18,12902234,Drifter Marz,red mage,72,False,red mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",RDM,False
+19,12902234,Drifter Marz,blue mage,70,False,blue mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",BLU,False
+20,12902234,Drifter Marz,carpenter,90,False,carpenter,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CRP,False
+21,12902234,Drifter Marz,blacksmith,90,False,blacksmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",BSM,False
+22,12902234,Drifter Marz,armorer,90,True,armorer,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ARM,False
+23,12902234,Drifter Marz,goldsmith,90,False,goldsmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",GSM,False
+24,12902234,Drifter Marz,leatherworker,90,False,leatherworker,"{'ID': 33, 'Name': 'Disciple of the Hand'}",LTW,False
+25,12902234,Drifter Marz,weaver,90,False,weaver,"{'ID': 33, 'Name': 'Disciple of the Hand'}",WVR,False
+26,12902234,Drifter Marz,alchemist,90,False,alchemist,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ALC,False
+27,12902234,Drifter Marz,culinarian,88,False,culinarian,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CUL,False
+28,12902234,Drifter Marz,miner,90,False,miner,"{'ID': 32, 'Name': 'Disciple of the Land'}",MIN,False
+29,12902234,Drifter Marz,botanist,90,False,botanist,"{'ID': 32, 'Name': 'Disciple of the Land'}",BTN,False
+30,12902234,Drifter Marz,fisher,90,False,fisher,"{'ID': 32, 'Name': 'Disciple of the Land'}",FSH,False
+31,35210768,Vaelarian Doralis,gladiator,0,False,gladiator,"{'ID': 30, 'Name': 'Disciple of War'}",GLA,False
+32,35210768,Vaelarian Doralis,marauder,0,False,marauder,"{'ID': 30, 'Name': 'Disciple of War'}",MRD,False
+33,35210768,Vaelarian Doralis,dark knight,0,False,dark knight,"{'ID': 30, 'Name': 'Disciple of War'}",DRK,False
+34,35210768,Vaelarian Doralis,gunbreaker,0,False,gunbreaker,"{'ID': 30, 'Name': 'Disciple of War'}",GNB,False
+35,35210768,Vaelarian Doralis,conjurer,6,False,conjurer,"{'ID': 31, 'Name': 'Disciple of Magic'}",CNJ,False
+36,35210768,Vaelarian Doralis,arcanist,0,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,False
+37,35210768,Vaelarian Doralis,astrologian,0,False,astrologian,"{'ID': 31, 'Name': 'Disciple of Magic'}",AST,False
+38,35210768,Vaelarian Doralis,sage,0,False,sage,"{'ID': 31, 'Name': 'Disciple of Magic'}",SGE,False
+39,35210768,Vaelarian Doralis,pugilist,51,False,pugilist,"{'ID': 30, 'Name': 'Disciple of War'}",PGL,False
+40,35210768,Vaelarian Doralis,lancer,0,False,lancer,"{'ID': 30, 'Name': 'Disciple of War'}",LNC,False
+41,35210768,Vaelarian Doralis,rogue,15,False,rogue,"{'ID': 30, 'Name': 'Disciple of War'}",ROG,True
+42,35210768,Vaelarian Doralis,samurai,61,False,samurai,"{'ID': 30, 'Name': 'Disciple of War'}",SAM,False
+43,35210768,Vaelarian Doralis,reaper,0,False,reaper,"{'ID': 30, 'Name': 'Disciple of War'}",RPR,False
+44,35210768,Vaelarian Doralis,archer,35,False,archer,"{'ID': 30, 'Name': 'Disciple of War'}",ARC,False
+45,35210768,Vaelarian Doralis,machinist,0,False,machinist,"{'ID': 30, 'Name': 'Disciple of War'}",MCH,False
+46,35210768,Vaelarian Doralis,dancer,0,False,dancer,"{'ID': 30, 'Name': 'Disciple of War'}",DNC,False
+47,35210768,Vaelarian Doralis,thaumaturge,5,False,thaumaturge,"{'ID': 31, 'Name': 'Disciple of Magic'}",THM,False
+48,35210768,Vaelarian Doralis,arcanist,11,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,False
+49,35210768,Vaelarian Doralis,red mage,0,False,red mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",RDM,False
+50,35210768,Vaelarian Doralis,blue mage,0,False,blue mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",BLU,False
+51,35210768,Vaelarian Doralis,carpenter,11,False,carpenter,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CRP,False
+52,35210768,Vaelarian Doralis,blacksmith,14,False,blacksmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",BSM,False
+53,35210768,Vaelarian Doralis,armorer,4,False,armorer,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ARM,False
+54,35210768,Vaelarian Doralis,goldsmith,14,False,goldsmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",GSM,False
+55,35210768,Vaelarian Doralis,leatherworker,11,False,leatherworker,"{'ID': 33, 'Name': 'Disciple of the Hand'}",LTW,False
+56,35210768,Vaelarian Doralis,weaver,7,False,weaver,"{'ID': 33, 'Name': 'Disciple of the Hand'}",WVR,False
+57,35210768,Vaelarian Doralis,alchemist,7,False,alchemist,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ALC,False
+58,35210768,Vaelarian Doralis,culinarian,22,False,culinarian,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CUL,False
+59,35210768,Vaelarian Doralis,miner,20,False,miner,"{'ID': 32, 'Name': 'Disciple of the Land'}",MIN,False
+60,35210768,Vaelarian Doralis,botanist,22,False,botanist,"{'ID': 32, 'Name': 'Disciple of the Land'}",BTN,False
+61,35210768,Vaelarian Doralis,fisher,16,False,fisher,"{'ID': 32, 'Name': 'Disciple of the Land'}",FSH,False
+62,36173485,Lizzy Lizzay,gladiator,90,False,gladiator,"{'ID': 30, 'Name': 'Disciple of War'}",GLA,False
+63,36173485,Lizzy Lizzay,marauder,0,False,marauder,"{'ID': 30, 'Name': 'Disciple of War'}",MRD,False
+64,36173485,Lizzy Lizzay,dark knight,39,False,dark knight,"{'ID': 30, 'Name': 'Disciple of War'}",DRK,False
+65,36173485,Lizzy Lizzay,gunbreaker,90,False,gunbreaker,"{'ID': 30, 'Name': 'Disciple of War'}",GNB,False
+66,36173485,Lizzy Lizzay,conjurer,62,False,conjurer,"{'ID': 31, 'Name': 'Disciple of Magic'}",CNJ,False
+67,36173485,Lizzy Lizzay,arcanist,90,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,True
+68,36173485,Lizzy Lizzay,astrologian,30,False,astrologian,"{'ID': 31, 'Name': 'Disciple of Magic'}",AST,False
+69,36173485,Lizzy Lizzay,sage,90,False,sage,"{'ID': 31, 'Name': 'Disciple of Magic'}",SGE,False
+70,36173485,Lizzy Lizzay,pugilist,0,False,pugilist,"{'ID': 30, 'Name': 'Disciple of War'}",PGL,False
+71,36173485,Lizzy Lizzay,lancer,0,False,lancer,"{'ID': 30, 'Name': 'Disciple of War'}",LNC,False
+72,36173485,Lizzy Lizzay,rogue,1,False,rogue,"{'ID': 30, 'Name': 'Disciple of War'}",ROG,False
+73,36173485,Lizzy Lizzay,samurai,50,False,samurai,"{'ID': 30, 'Name': 'Disciple of War'}",SAM,False
+74,36173485,Lizzy Lizzay,reaper,90,False,reaper,"{'ID': 30, 'Name': 'Disciple of War'}",RPR,False
+75,36173485,Lizzy Lizzay,archer,44,False,archer,"{'ID': 30, 'Name': 'Disciple of War'}",ARC,False
+76,36173485,Lizzy Lizzay,machinist,0,False,machinist,"{'ID': 30, 'Name': 'Disciple of War'}",MCH,False
+77,36173485,Lizzy Lizzay,dancer,90,False,dancer,"{'ID': 30, 'Name': 'Disciple of War'}",DNC,False
+78,36173485,Lizzy Lizzay,thaumaturge,48,False,thaumaturge,"{'ID': 31, 'Name': 'Disciple of Magic'}",THM,False
+79,36173485,Lizzy Lizzay,arcanist,90,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,True
+80,36173485,Lizzy Lizzay,red mage,90,False,red mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",RDM,False
+81,36173485,Lizzy Lizzay,blue mage,61,False,blue mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",BLU,False
+82,36173485,Lizzy Lizzay,carpenter,0,False,carpenter,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CRP,False
+83,36173485,Lizzy Lizzay,blacksmith,0,False,blacksmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",BSM,False
+84,36173485,Lizzy Lizzay,armorer,0,False,armorer,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ARM,False
+85,36173485,Lizzy Lizzay,goldsmith,0,False,goldsmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",GSM,False
+86,36173485,Lizzy Lizzay,leatherworker,0,False,leatherworker,"{'ID': 33, 'Name': 'Disciple of the Hand'}",LTW,False
+87,36173485,Lizzy Lizzay,weaver,0,False,weaver,"{'ID': 33, 'Name': 'Disciple of the Hand'}",WVR,False
+88,36173485,Lizzy Lizzay,alchemist,0,False,alchemist,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ALC,False
+89,36173485,Lizzy Lizzay,culinarian,66,False,culinarian,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CUL,False
+90,36173485,Lizzy Lizzay,miner,0,False,miner,"{'ID': 32, 'Name': 'Disciple of the Land'}",MIN,False
+91,36173485,Lizzy Lizzay,botanist,48,False,botanist,"{'ID': 32, 'Name': 'Disciple of the Land'}",BTN,False
+92,36173485,Lizzy Lizzay,fisher,36,False,fisher,"{'ID': 32, 'Name': 'Disciple of the Land'}",FSH,False
