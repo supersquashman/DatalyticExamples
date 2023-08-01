@@ -10,8 +10,7 @@ import pyxivapi
 from pyxivapi.models import Filter, Sort
 
 
-class FFXIVAnalytics:
-    character_id = "35210768"
+class FFXIVExtraction:
     hotdog_id="9234208823458267779"
     client = pyxivapi.XIVAPIClient(api_key=api_keys.FFXIV)
     character_columns = ["charId","Name","ClassJobsBozjan","ClassJobsElemental","DC","GrandCompany","Gender","Deity","Race","Nameday","Server","Title","TitleTop","Town","Tribe","Bio"]
@@ -56,7 +55,7 @@ class FFXIVAnalytics:
 
 
     async def update_freecompany_pdata(self,freecompany_id):
-        character_id_list = ["12902234","35210768","36173485"]
+        character_id_list = ["12902234","35210768","36173485","20833237","36137423"]
         for character in character_id_list:
             character_dat_full = await self.fetch_character_data(character)
             character_dat = character_dat_full["Character"]
@@ -133,7 +132,7 @@ class FFXIVAnalytics:
         self.classjobs_df.to_csv("data/ffxiv_classjobs.csv")
 
 
-test = FFXIVAnalytics()
+test = FFXIVExtraction()
 test.run_full()
 
 

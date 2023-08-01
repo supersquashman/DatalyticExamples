@@ -92,3 +92,65 @@
 90,36173485,Lizzy Lizzay,miner,0,False,miner,"{'ID': 32, 'Name': 'Disciple of the Land'}",MIN,False
 91,36173485,Lizzy Lizzay,botanist,48,False,botanist,"{'ID': 32, 'Name': 'Disciple of the Land'}",BTN,False
 92,36173485,Lizzy Lizzay,fisher,36,False,fisher,"{'ID': 32, 'Name': 'Disciple of the Land'}",FSH,False
+93,20833237,Jim Morris,gladiator,80,False,gladiator,"{'ID': 30, 'Name': 'Disciple of War'}",GLA,False
+94,20833237,Jim Morris,marauder,90,False,marauder,"{'ID': 30, 'Name': 'Disciple of War'}",MRD,False
+95,20833237,Jim Morris,dark knight,82,False,dark knight,"{'ID': 30, 'Name': 'Disciple of War'}",DRK,False
+96,20833237,Jim Morris,gunbreaker,78,False,gunbreaker,"{'ID': 30, 'Name': 'Disciple of War'}",GNB,False
+97,20833237,Jim Morris,conjurer,90,False,conjurer,"{'ID': 31, 'Name': 'Disciple of Magic'}",CNJ,True
+98,20833237,Jim Morris,arcanist,80,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,False
+99,20833237,Jim Morris,astrologian,35,False,astrologian,"{'ID': 31, 'Name': 'Disciple of Magic'}",AST,False
+100,20833237,Jim Morris,sage,70,False,sage,"{'ID': 31, 'Name': 'Disciple of Magic'}",SGE,False
+101,20833237,Jim Morris,pugilist,80,False,pugilist,"{'ID': 30, 'Name': 'Disciple of War'}",PGL,False
+102,20833237,Jim Morris,lancer,90,False,lancer,"{'ID': 30, 'Name': 'Disciple of War'}",LNC,False
+103,20833237,Jim Morris,rogue,90,False,rogue,"{'ID': 30, 'Name': 'Disciple of War'}",ROG,False
+104,20833237,Jim Morris,samurai,50,False,samurai,"{'ID': 30, 'Name': 'Disciple of War'}",SAM,False
+105,20833237,Jim Morris,reaper,70,False,reaper,"{'ID': 30, 'Name': 'Disciple of War'}",RPR,False
+106,20833237,Jim Morris,archer,90,False,archer,"{'ID': 30, 'Name': 'Disciple of War'}",ARC,False
+107,20833237,Jim Morris,machinist,80,False,machinist,"{'ID': 30, 'Name': 'Disciple of War'}",MCH,False
+108,20833237,Jim Morris,dancer,60,False,dancer,"{'ID': 30, 'Name': 'Disciple of War'}",DNC,False
+109,20833237,Jim Morris,thaumaturge,69,False,thaumaturge,"{'ID': 31, 'Name': 'Disciple of Magic'}",THM,False
+110,20833237,Jim Morris,arcanist,80,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,False
+111,20833237,Jim Morris,red mage,90,False,red mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",RDM,False
+112,20833237,Jim Morris,blue mage,70,False,blue mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",BLU,False
+113,20833237,Jim Morris,carpenter,80,False,carpenter,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CRP,False
+114,20833237,Jim Morris,blacksmith,66,False,blacksmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",BSM,False
+115,20833237,Jim Morris,armorer,69,False,armorer,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ARM,False
+116,20833237,Jim Morris,goldsmith,57,False,goldsmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",GSM,False
+117,20833237,Jim Morris,leatherworker,52,False,leatherworker,"{'ID': 33, 'Name': 'Disciple of the Hand'}",LTW,False
+118,20833237,Jim Morris,weaver,80,False,weaver,"{'ID': 33, 'Name': 'Disciple of the Hand'}",WVR,False
+119,20833237,Jim Morris,alchemist,52,False,alchemist,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ALC,False
+120,20833237,Jim Morris,culinarian,9,False,culinarian,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CUL,False
+121,20833237,Jim Morris,miner,80,False,miner,"{'ID': 32, 'Name': 'Disciple of the Land'}",MIN,False
+122,20833237,Jim Morris,botanist,80,False,botanist,"{'ID': 32, 'Name': 'Disciple of the Land'}",BTN,False
+123,20833237,Jim Morris,fisher,19,False,fisher,"{'ID': 32, 'Name': 'Disciple of the Land'}",FSH,False
+124,36137423,Levele Luck,gladiator,0,False,gladiator,"{'ID': 30, 'Name': 'Disciple of War'}",GLA,False
+125,36137423,Levele Luck,marauder,0,False,marauder,"{'ID': 30, 'Name': 'Disciple of War'}",MRD,False
+126,36137423,Levele Luck,dark knight,63,False,dark knight,"{'ID': 30, 'Name': 'Disciple of War'}",DRK,False
+127,36137423,Levele Luck,gunbreaker,90,False,gunbreaker,"{'ID': 30, 'Name': 'Disciple of War'}",GNB,False
+128,36137423,Levele Luck,conjurer,90,False,conjurer,"{'ID': 31, 'Name': 'Disciple of Magic'}",CNJ,True
+129,36137423,Levele Luck,arcanist,90,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,False
+130,36137423,Levele Luck,astrologian,30,False,astrologian,"{'ID': 31, 'Name': 'Disciple of Magic'}",AST,False
+131,36137423,Levele Luck,sage,0,False,sage,"{'ID': 31, 'Name': 'Disciple of Magic'}",SGE,False
+132,36137423,Levele Luck,pugilist,0,False,pugilist,"{'ID': 30, 'Name': 'Disciple of War'}",PGL,False
+133,36137423,Levele Luck,lancer,0,False,lancer,"{'ID': 30, 'Name': 'Disciple of War'}",LNC,False
+134,36137423,Levele Luck,rogue,0,False,rogue,"{'ID': 30, 'Name': 'Disciple of War'}",ROG,False
+135,36137423,Levele Luck,samurai,90,False,samurai,"{'ID': 30, 'Name': 'Disciple of War'}",SAM,False
+136,36137423,Levele Luck,reaper,0,False,reaper,"{'ID': 30, 'Name': 'Disciple of War'}",RPR,False
+137,36137423,Levele Luck,archer,51,False,archer,"{'ID': 30, 'Name': 'Disciple of War'}",ARC,False
+138,36137423,Levele Luck,machinist,59,False,machinist,"{'ID': 30, 'Name': 'Disciple of War'}",MCH,False
+139,36137423,Levele Luck,dancer,72,False,dancer,"{'ID': 30, 'Name': 'Disciple of War'}",DNC,False
+140,36137423,Levele Luck,thaumaturge,90,False,thaumaturge,"{'ID': 31, 'Name': 'Disciple of Magic'}",THM,False
+141,36137423,Levele Luck,arcanist,90,False,arcanist,"{'ID': 31, 'Name': 'Disciple of Magic'}",ACN,False
+142,36137423,Levele Luck,red mage,90,False,red mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",RDM,False
+143,36137423,Levele Luck,blue mage,66,False,blue mage,"{'ID': 31, 'Name': 'Disciple of Magic'}",BLU,False
+144,36137423,Levele Luck,carpenter,80,False,carpenter,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CRP,False
+145,36137423,Levele Luck,blacksmith,80,False,blacksmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",BSM,False
+146,36137423,Levele Luck,armorer,80,False,armorer,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ARM,False
+147,36137423,Levele Luck,goldsmith,90,False,goldsmith,"{'ID': 33, 'Name': 'Disciple of the Hand'}",GSM,False
+148,36137423,Levele Luck,leatherworker,90,True,leatherworker,"{'ID': 33, 'Name': 'Disciple of the Hand'}",LTW,False
+149,36137423,Levele Luck,weaver,90,False,weaver,"{'ID': 33, 'Name': 'Disciple of the Hand'}",WVR,False
+150,36137423,Levele Luck,alchemist,84,False,alchemist,"{'ID': 33, 'Name': 'Disciple of the Hand'}",ALC,False
+151,36137423,Levele Luck,culinarian,90,False,culinarian,"{'ID': 33, 'Name': 'Disciple of the Hand'}",CUL,False
+152,36137423,Levele Luck,miner,90,False,miner,"{'ID': 32, 'Name': 'Disciple of the Land'}",MIN,False
+153,36137423,Levele Luck,botanist,90,False,botanist,"{'ID': 32, 'Name': 'Disciple of the Land'}",BTN,False
+154,36137423,Levele Luck,fisher,90,False,fisher,"{'ID': 32, 'Name': 'Disciple of the Land'}",FSH,False
